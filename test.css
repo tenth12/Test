@@ -46,7 +46,7 @@
 }
 
 .reactionTooltipText-iAWHhX a {
-    color: #00DFF1;
+    color: #d67cbd;
     font-weight: bold;
     background-color: black;
     padding: 2px;
@@ -170,7 +170,7 @@
 
 .theme-dark .queryContainer-ZunrLZ {
     color: white;
-    border-bottom-color: #61a5d8;
+    border-bottom-color: #d67cbd;
 }
 
 .theme-dark .focused-2FU0YH {
@@ -188,7 +188,7 @@
 }
 
 .combo-3PNrpQ span {
-    background-color: #61a5d8;
+    background-color: #d67cbd;
     border: 1px solid #76AAD9;
     border-radius: 6px;
 }
@@ -204,7 +204,7 @@
 .theme-dark .combo-3PNrpQ span:active {
     color: white;
     box-shadow: none;
-    border: 2px outset #76AAD9;
+    border: 2px outset #d67cbd;
 }
 
 .theme-dark .dim-GXxpGm span:active {
@@ -260,11 +260,11 @@
 }
 
 .calendarPicker-sDhzdi .react-datepicker__day.react-datepicker__day--keyboard-selected, .calendarPicker-sDhzdi .react-datepicker__day.react-datepicker__day--selected:hover, .calendarPicker-sDhzdi .react-datepicker__day:hover {
-    background-color: #FFB21F;
+    background-color: #d67cbd;
 }
 
 .calendarPicker-sDhzdi .react-datepicker__day.react-datepicker__day--selected:after {
-    background-color: #FFB21F;
+    background-color: #d67cbd;
 }
 
 .theme-dark .datePicker-3iA7_k .datePickerHint-Ir4715 {
@@ -276,18 +276,18 @@
 }
 
 .theme-dark .datePicker-3iA7_k .datePickerHint-Ir4715 .hintValue-V9hd8l {
-    background-color: #61a5d8;
+    background-color: #d67cbd;
     border: 1px solid rgba(255, 255, 255, .54);
 }
 
 .theme-dark .datePicker-3iA7_k .datePickerHint-Ir4715 .hintValue-V9hd8l:hover {
-    border: 2px outset #76AAD9;
-    background-color: #76AAD9;
+    border: 2px outset #d67cbd;
+    background-color: #d67cbd;
 }
 
 .theme-dark .datePicker-3iA7_k .datePickerHint-Ir4715 .hintValue-V9hd8l:active {
-    border: 2px inset #61a5d8;
-    background-color: #61a5d8;
+    border: 2px inset #d67cbd;
+    background-color: #d67cbd;
 }
 
 .searchBar-jGtisZ {
